@@ -1,0 +1,3 @@
+/*documento de texto importante*/
+
+---Aqui solo van a ir videos o parte externa de la pagina a parte que la de la principal
